@@ -1,0 +1,12 @@
+//On Terminal Install The following libraries
+> pip install pytest
+//or
+> pip install -U pytest
+
+// To Run the test_project.py on Terminal execute the following Command
+> python -m pytest test_project.py
+
+//or
+
+// To run the project file on Terminal execute the following Command
+> python -m pytest project
